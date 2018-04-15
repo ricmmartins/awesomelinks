@@ -1,4 +1,4 @@
-#Awesome Links
+# Awesome Links
 My curated list of links for study, research and readiness
 
 * [https://news.ycombinator.com/](https://news.ycombinator.com/)
